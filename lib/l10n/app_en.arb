@@ -1,0 +1,39 @@
+{
+  "@@locale": "en",
+  "welcome": "Welcome!",
+  "@welcome": {
+    "description": "welcome text"
+  },
+  "letStart": "Let's start by connecting to a WiFi network.",
+  "@letStart": {
+    "description": "let's start text"
+  },
+  "reload": "Reload",
+  "@reload": {
+    "description": "reload text"
+  },
+  "connectToWlan": "Connect to a WLAN",
+  "@connectToWlan": {
+    "description": "connect To Wlan text"
+  },
+  "tryToConnectTo": "The device is trying to connect to: ",
+  "@tryToConnectTo": {
+    "description": "try connect To Wlan text"
+  },
+  "enterPassword": "Please enter your password for the network here:",
+  "@enterPassword": {
+    "description": "enter password text"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "password"
+  },
+  "join": "Join",
+  "@join": {
+    "description": "join text"
+  },
+  "successfulConnection": "Successful connection to the WLAN: ",
+  "@successfulConnection": {
+    "description": "successful connection text"
+  }
+}

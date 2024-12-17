@@ -1,0 +1,12 @@
+{
+  "@@locale": "de",
+  "welcome": "Willkomen!",
+  "letStart": "Lass uns beginnen indem wir uns mit einem WLAN verbinden.",
+  "reload": "Neu Laden",
+  "connectToWlan": "Mit einem WLAN verbinden",
+  "tryToConnectTo": "Das Gerät versucht sich mit zu verbinden mit: ",
+  "enterPassword": "Bitte gib dein Passwort für das Netzwerk hier ein:",
+  "password": "Passwort",
+  "join": "Beitreten",
+  "successfulConnection": "Erfolgreiche Verbindung zum WLAN: "
+}
